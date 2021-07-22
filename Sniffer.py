@@ -21,3 +21,5 @@ while True:
     # Establish a connection with client
     c, addr = s.accept();
     print("Connection from",addr);
+
+print("done")
